@@ -1,0 +1,14 @@
+<package>
+  <description brief="unity_robotics">
+
+     unity_robotics
+
+  </description>
+  <author>kvarg</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/unity_robotics</url>
+  <depend package="std_msgs"/>
+  <depend package="rospy"/>
+
+</package>
